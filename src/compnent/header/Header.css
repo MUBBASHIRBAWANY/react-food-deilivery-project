@@ -1,0 +1,59 @@
+.{
+    margin-top: auto
+}
+.Header-Wrap{
+    display: flex;
+    align-items: center;
+    Justify-content: space-between;
+    max-width: 80%;
+    margin-left: 5%;
+    margin-top: 1%;
+    font-size: 80%;
+    flex-wrap: wrap;
+    
+
+}
+
+.cart{
+    color: #E94339;
+    height: 80%;
+    width: 80%;
+}
+
+.List-Wrap{
+    display: flex;
+    margin-right: 5%;
+    gap: 15%;
+    font-weight: 500;
+ text-decoration: none; 
+    
+}
+
+.List-Wrap:hover{
+ text-decoration: none; 
+}
+.List-Wrap:active{
+    text-decoration: none; 
+   }
+
+.List-Wrap2{
+    display: flex;
+ justify-content: space-between;   
+ gap: 8px;
+ font-weight: 500;
+ flex-wrap: wrap;
+ color: black;
+
+
+}
+
+.sign_up{
+    background-color: #E94339;
+    color: white;
+    border-radius: 56px;
+    padding: 10px;
+
+}
+.login{
+    padding: 15px;
+}

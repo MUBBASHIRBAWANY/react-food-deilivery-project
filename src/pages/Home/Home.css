@@ -1,0 +1,28 @@
+.footer-warp{
+    margin-top: 5%;
+    width: 100%;
+    height: 100%;
+    top: 3410px;
+    left: -11px;
+    gap: 20px;
+    opacity: 0px;
+border: 0.05px solid #FFFFFF;
+background: black;   
+display: flex;
+color: #FFFFFF;
+flex-wrap: wrap;
+}
+
+.pizza{
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+
+.store{
+    margin-top: 20%;
+    }
+
+.Googleplay{
+    margin-left: 5px;
+}

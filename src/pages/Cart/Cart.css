@@ -1,0 +1,32 @@
+.cardwrap{
+    width: 100vw ;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+    height: 50vh;
+    
+}
+
+.cardwrap img{
+ border-radius: 50px;   
+ width: 100px;
+height: 100px;
+
+}
+
+
+.cardwrap span{
+    border: black solid 2px;
+    padding: 0 2% 0.5% 2%;
+}
+
+.cardDetail{
+    margin-top: 1%;
+    display: flex;
+    align-items: center;
+    
+}
+
+.dif {
+    margin-left: 4.5%;
+}

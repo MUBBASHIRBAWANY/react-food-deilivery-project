@@ -1,0 +1,36 @@
+
+.footer-flex h1{
+    font-family: Inter;
+font-size: 15.76px;
+font-weight: 600;
+line-height: 26.63px;
+text-align: left;
+width: 130px;
+height: 27px;
+
+
+
+
+}
+
+.footer-wrap{
+    margin-top: 5%;
+    margin-left: 5%;
+    
+}
+
+.footer-flex p{
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 34px;
+text-align: left;
+color: #AAA7B1;
+width: 5;
+
+}
+
+.footer-flex{
+    max-width: 50%;
+    
+}

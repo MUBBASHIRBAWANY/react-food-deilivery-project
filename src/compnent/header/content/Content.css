@@ -1,0 +1,42 @@
+.content-warp{
+    display: flex;
+    justify-content: space-between;
+    margin: 5%;
+    flex-wrap: wrap;
+
+    
+}
+
+.location{
+    background-color: transparent;
+    border: 0px solid;
+    height: 17px;
+    width: 300px;
+    margin-left: 10px;
+    color: #AFAFAF;
+
+}
+
+.inp-wrap{
+background: #F6F6F6;
+ width: 464px;
+ height: 64px   ;
+ border-radius: 56px;
+
+}
+
+.location:focus{
+    outline: none;
+}
+
+.content-write{
+    max-width: 50%;
+}
+
+.content-heading{
+    font-size: 50px;
+}
+
+#img1{
+    width: 100%;
+}

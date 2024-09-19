@@ -1,0 +1,33 @@
+.line-breck{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+}
+
+.value{
+color: red;
+}
+
+.card-box {
+    display: flex;
+    gap: 100px;
+    flex-wrap: wrap;
+    margin: 8%;
+}
+
+.view-product{
+    align-items: center;
+    margin: auto;
+    display: block;
+    width: 80%;
+    border-radius: 56px;
+    padding: 0.5%;
+    font : inherit;
+    background: #E94339;
+    color: #ffffff;
+}
